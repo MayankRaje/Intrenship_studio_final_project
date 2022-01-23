@@ -1,5 +1,6 @@
 # Intrenship_studio_final_project
 flipMART is an e-commerce website which has all basic features which are essential in an e-commerce website
+Ith opens in desktop or laptop in a better way than mobile
 
 ![image](https://user-images.githubusercontent.com/71680976/150685614-f0d00878-685b-4f3a-9934-d8bc0d64a33c.png)
 
