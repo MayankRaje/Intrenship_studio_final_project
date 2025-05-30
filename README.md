@@ -17,6 +17,8 @@ The site is optimized for desktop and laptop resolutions, offering a clean and i
 🎨 Tech Stack: HTML5, CSS3, JavaScript (static)
 🔑 Focus Areas: Responsive Web Design · Layout Design · UI Structuring · Semantic HTML · CSS Styling
 
+Live Link: https://flip-mart.netlify.app/
+
 ![image](https://user-images.githubusercontent.com/71680976/150685614-f0d00878-685b-4f3a-9934-d8bc0d64a33c.png)
 
 ![image](https://user-images.githubusercontent.com/71680976/150685673-a9be17e1-21f3-412e-b5c1-6779ed459e57.png)
